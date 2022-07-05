@@ -47,3 +47,27 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-sec{
+background-image: url(images/exp-bg.png);
+background-position: left;
+background-repeat: no-repeat;
+}
+h2{
+    font-size: 40px;
+}
+.exp-div{
+    display: flex;
+}
+.exp-div div{
+    box-shadow: 9px 5px 50px rgb(231, 199, 204);
+    height: 350px; 
+}
+#full-stack{
+    border-left: 5px solid rgb(248, 7, 48);
+}
+#baby-web{
+    border-left: 5px solid blue;
+}
+footer{
+    text-align: center;
+}
